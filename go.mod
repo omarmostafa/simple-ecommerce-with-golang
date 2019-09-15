@@ -14,6 +14,7 @@ require (
 	github.com/joho/godotenv v1.3.0
 	github.com/leodido/go-urn v1.1.0 // indirect
 	github.com/lib/pq v1.1.1
+	github.com/stretchr/testify v1.4.0 // indirect
 	golang.org/x/crypto v0.0.0-20190325154230-a5d413f7728c
 	gopkg.in/go-playground/validator.v9 v9.29.1
 	gopkg.in/matryer/respond.v1 v1.0.1
